@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 15%;
+}
+
+.contact-info {
+  text-align: center;
+  border: 2px solid white;
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+  width: 30%;
+  font-size: 20px;
+}
+
+.contact-info h2 {
+  font-size: 28px;
+  color: brown;
+  margin-bottom: 20px;
+}
+
+.contact-info p {
+  margin: 10px 0;
+}
+
+.contact-info a {
+  color: brown;
+}
